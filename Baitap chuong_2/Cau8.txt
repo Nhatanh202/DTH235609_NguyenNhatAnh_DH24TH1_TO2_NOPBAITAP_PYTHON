@@ -1,0 +1,4 @@
+Các loại lỗi :
+ - SyntaxError : lỗi cú pháp
+ - Runtime Error : lỗi khi chạy
+ - Logic Error : lỗi logic

@@ -1,0 +1,5 @@
+Một số cách nhập dữ liệu
+ - Dùng input()
+    + Nhập chuỗi
+    + Nhập số nguyên
+    + Nhập số thực

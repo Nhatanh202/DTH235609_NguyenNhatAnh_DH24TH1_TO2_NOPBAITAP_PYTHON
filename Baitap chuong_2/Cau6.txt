@@ -1,0 +1,6 @@
+// chia lấy nguyên
+% chia lấy dư
+** lũy thừa
+and toán tử logic VÀ
+or toán tử logic HOẶC
+is so sánh địa chỉ

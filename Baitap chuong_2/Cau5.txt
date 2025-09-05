@@ -1,0 +1,2 @@
+Ghi chú dòng : #
+Ghi chú nhiều dòng : """ or '''
