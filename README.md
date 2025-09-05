@@ -21,5 +21,4 @@ GIỚI THIỆU MÔN HỌC "Chuyên Đề PYTHON " - Mã Môn Học : COS525
 6. [Chương 06 - Xử lý thư mục, tập tin]
 7. [Chương 07.1 - Lập trình đồ họa bằng Turtle] 
 8. [Chương 07.2 - Thiết kế giao diện với Tkinter]
-9. [Chương 08.1 - Lập trình Web bằng Python - Web CGI]
-10.[Chương 08.2 - Lập trình Web bằng Python - MySQL]
+9. [Chương 08 - Lập trình Web bằng Python - Web CGI/MySQL]
