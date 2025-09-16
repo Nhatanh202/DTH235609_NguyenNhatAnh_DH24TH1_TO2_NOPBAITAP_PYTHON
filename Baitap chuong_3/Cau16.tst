@@ -1,0 +1,1 @@
+Có 16 dấu * được in ra trên màn hình
