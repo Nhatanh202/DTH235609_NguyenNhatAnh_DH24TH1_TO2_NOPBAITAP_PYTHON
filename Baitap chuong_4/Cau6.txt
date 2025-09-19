@@ -1,0 +1,2 @@
+Những giá trị có thể xuất hiện 0,34,99
+Những giá trị như -1,4.5, 100 thì không xuất hiện
